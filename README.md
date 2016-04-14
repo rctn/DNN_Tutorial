@@ -14,3 +14,7 @@ If you like git/github, you can download the latest versions of Theano or Keras 
 and they can be cloned and then installed by running
 ```python setup.py develop```
 from the cloned folder.
+
+Once everything is setup, you can start the notebook by running
+```ipython notebook```
+from the command line from inside of this repository.
